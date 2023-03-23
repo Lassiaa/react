@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=./~lassiaa/react/week2/navigation",
+    "build": "vite build --base=/~lassiaa/react/week2/navigation/",
     "preview": "vite preview"
   },
   "dependencies": {
