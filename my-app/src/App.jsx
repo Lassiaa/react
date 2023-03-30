@@ -14,7 +14,6 @@ const App = () => {
   return (
     <Router basename={import.meta.env.BASE_URL}>
       <MediaProvider>
-        ;
         <Routes>
           <Route element={<Layout />}>
             <Route path="/" element={<Login />} />
